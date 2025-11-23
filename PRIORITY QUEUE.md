@@ -66,7 +66,7 @@ while not myQueue.isEmpty():
 	print(myQueue.delete())
 
 ```
-
+ 
 ## OUTPUT
 ![Screenshot 2025-05-19 120219](https://github.com/user-attachments/assets/e157205f-cd07-4ac1-9cef-ce65baf22c06)
 
